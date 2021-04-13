@@ -1,0 +1,9 @@
+server:
+  port: 8081
+
+tutorial1:
+  kafka:
+    address: localhost:9092
+    topic:
+      name: tutorial_first
+      group_id: tutorial_first_group
