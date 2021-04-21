@@ -1,0 +1,11 @@
+spring:
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: javidan
+    password: javidan
+
+rabbit:
+  queue: javidan-queue
+  exchange: javidan-exchange
+  routing: javidan-routing
