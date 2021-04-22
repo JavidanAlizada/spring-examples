@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      database: spring-mongo
+      uri: mongodb://localhost:27017

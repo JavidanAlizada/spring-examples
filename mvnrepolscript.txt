@@ -1,0 +1,9 @@
+mvn install:install-file \
+   -Dfile=C:/Users/Javidan/OneDrive/Desktop/rapidus/auth/out/artifacts/project_management_auth_jar/project_management.auth.jar \
+   -DgroupId=rapidus \
+   -DartifactId=project_management.auth \
+   -Dversion=0.0.1-SNAPSHOT \
+   -Dpackaging=jar \
+   -DgeneratePom=true
+
+diger projectden cagiranda group_id, artifact_id, version mutleqdir
